@@ -1,3 +1,3 @@
 # My Portfolio Website 
 
-https://abdiissa.github.io/web.html
+https://portfolio.io/web.html
